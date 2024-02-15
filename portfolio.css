@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(248, 192, 146);
+}
+body{
+    text-align: center;
+    margin: 30px;
+}
+nav ul li{
+    display: inline;
+}
+header{
+    background-color: bisque;
+}
+#Portfolio{
+    background-color: aqua;
+}
+skills ul{
+    display: inline;
+    
+}
+footer{
+    background-color: wheat;
+    padding: 20px;
+}
+
